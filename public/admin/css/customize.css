@@ -1,0 +1,13 @@
+.text-success {
+   color: #0bf70f;
+}
+::-webkit-scrollbar {
+   background: #000;
+   width: 3px;
+   height: 11px;
+}
+
+::-webkit-scrollbar-thumb {
+   background: #3c8dbc;
+   border-radius: 20px;
+}
